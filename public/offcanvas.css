@@ -7,6 +7,7 @@ body {
   overflow-x: hidden; /* Prevent scroll on narrow devices */
   background-color: #161104;
   color:#fff; 
+  padding-bottom: 100px;      
 }
 body {
   padding-top: 70px;
